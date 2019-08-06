@@ -7,7 +7,9 @@
     "icon": "plug",
     "description": "This a implementation of slack web api with templates in nodejs"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@slack/web-api": "^5.1.0"
+  },
   "author": {
     "name": "Guilherme Cayres Maciel",
     "email": "cayrescript@gmail.com",
