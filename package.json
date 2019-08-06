@@ -1,0 +1,21 @@
+{
+  "name": "slack-web-api",
+  "version": "0.0.1",
+  "description": "Slack web api",
+  "strapi": {
+    "name": "slack",
+    "icon": "plug",
+    "description": "This a implementation of slack web api with templates in nodejs"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Guilherme Cayres Maciel",
+    "email": "cayrescript@gmail.com",
+    "url": "https://github.com/cayrescript"
+  },
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "license": "MIT"
+}
